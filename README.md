@@ -1,4 +1,6 @@
-# .
+# Weather-app
+
+<img src="https://home.openweathermap.org/assets/history_banner-3e72b47aa91f9e874b5e56197a88feacafd37ad4eaccfa3974302b37004ec7f5.png">
 
 This template should help get you started developing with Vue 3 in Vite.
 
